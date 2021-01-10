@@ -25,3 +25,14 @@ https://api.bilibili.com/x/space/arc/search?mid=546195&ps=30&tid=0&pn=1&keyword=
 
 up主主页基本信息
 https://api.bilibili.com/x/space/acc/info?mid=546195&jsonp=jsonp
+
+
+实时进度：
+
+提取关注度前3000up主名单（完成）
+
+爬取总关注数，排序，提取关注前1000up主名单（标注数据提取时间）
+
+遍历名单，爬取关注列表及视频列表，获得up在各个分区投稿数目
+
+遍历所有合作视频，记录合作者mid，只取在2019年1月1日及之后发布的视频
