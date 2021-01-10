@@ -29,7 +29,7 @@ https://api.bilibili.com/x/space/acc/info?mid=546195&jsonp=jsonp
 
 实时进度：
 
-提取关注度前3000up主名单（完成）
+~~提取关注度前3000up主名单（完成）~~
 
 爬取总关注数，排序，提取关注前1000up主名单（标注数据提取时间）
 
