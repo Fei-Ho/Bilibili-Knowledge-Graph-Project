@@ -26,6 +26,11 @@ https://api.bilibili.com/x/space/arc/search?mid=546195&ps=30&tid=0&pn=1&keyword=
 up主主页基本信息
 https://api.bilibili.com/x/space/acc/info?mid=546195&jsonp=jsonp
 
+up主信息（关注人数，粉丝数）
+https://api.bilibili.com/x/relation/stat?vmid=1&jsonp=jsonp
+
+up主信息（总播放）
+https://api.bilibili.com/x/space/upstat?mid=423895&jsonp=jsonp
 
 实时进度：
 
